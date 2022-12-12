@@ -16,7 +16,8 @@ I created a chat app in flutter and firebase that has various login methods incl
 - **User interface:** The app has a modern interface, similar to that of popular messaging apps like Telegram.
 
 ## Download
-[app.zip](https://github.com/Ojasv24/ChatApp/files/10206505/app.zip)
+[OChat.zip](https://github.com/Ojasv24/ChatApp/files/10206519/OChat.zip)
+
 
 ## Screenshots
 |  |  |
