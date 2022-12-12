@@ -15,6 +15,9 @@ I created a chat app in flutter and firebase that has various login methods incl
 - **Anyone can talk to anyone:** The app allows users to talk to anyone, regardless of whether they are friends or strangers.
 - **User interface:** The app has a modern interface, similar to that of popular messaging apps like Telegram.
 
+## Download
+[app.zip](https://github.com/Ojasv24/ChatApp/files/10206505/app.zip)
+
 ## Screenshots
 |  |  |
 | ------------- | ------------- |
